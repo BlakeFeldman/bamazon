@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cli-input": "^0.2.0",
+    "cli-table2": "^0.2.0",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1",
+    "ttycolor": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Feldman",
+  "license": "ISC"
+}
